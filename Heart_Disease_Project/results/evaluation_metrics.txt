@@ -1,0 +1,45 @@
+Heart Disease Prediction - Model Evaluation Results
+===================================================
+
+1) SUPERVISED LEARNING
+----------------------
+
+Logistic Regression Evaluation:
+Accuracy : 0.8833
+Precision: 0.8889
+Recall   : 0.8571
+F1-score : 0.8727
+AUC Score: 0.9397
+
+Decision Tree Evaluation:
+Accuracy : 0.6667
+Precision: 0.6818
+Recall   : 0.5357
+F1-score : 0.6000
+AUC Score: 0.6685
+
+Random Forest Evaluation:
+Accuracy : 0.8333
+Precision: 0.8750
+Recall   : 0.7500
+F1-score : 0.8077
+AUC Score: 0.9319
+
+SVM Evaluation:
+Accuracy : 0.8333
+Precision: 0.8462
+Recall   : 0.7857
+F1-score : 0.8148
+AUC Score: 0.9431
+
+Summary of Model Evaluation Metrics:
+
+| Model                | Accuracy | Precision | Recall | F1-score | AUC   |
+|-----------------------|----------|-----------|--------|----------|-------|
+| Logistic Regression   | 0.8833   | 0.8889    | 0.8571 | 0.8727   | 0.9397 |
+| Decision Tree         | 0.6667   | 0.6818    | 0.5357 | 0.6000   | 0.6685 |
+| Random Forest         | 0.8333   | 0.8750    | 0.7500 | 0.8077   | 0.9319 |
+| Support Vector Machine (SVM) | 0.8333 | 0.8462 | 0.7857 | 0.8148 | 0.9431 |
+
+
+

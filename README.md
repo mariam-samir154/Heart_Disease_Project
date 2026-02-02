@@ -9,12 +9,19 @@ It covers data preprocessing, dimensionality reduction, supervised and unsupervi
 - PCA for dimensionality reduction
 
 - Heart_Disease_Project/
+- 
 │── data/                 # Dataset
+
 │── notebooks/            # Jupyter notebooks (01–06)
+
 │── models/               # Trained models (.pkl)
+
 │── results/              # Evaluation results (txt, plots)
+
 │── README.md
+
 │── requirements.txt
+
 │── .gitignore
 
 ## Model Performance
